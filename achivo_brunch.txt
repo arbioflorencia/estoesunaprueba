@@ -1,0 +1,2 @@
+## probando crear un archivo en una brunch secundaria (child brunch). 
+##Solo se crea en la child brunch,no en la main. se pasa a la main luego que se aprueban los cambios (ver pull request)
